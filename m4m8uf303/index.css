@@ -1,0 +1,87 @@
+body{
+  background-color: pink;
+  margin: 0px;
+  padding: 0px;
+  font-family: helvetica, sans-serif;
+}
+
+div{
+  background-color: pink
+}
+
+h1{
+  margin:0 25px;
+  margin-left: 25px;
+  text-align: center;
+  width: 350px;
+}
+
+p{
+  color: #666;
+  font-size: 18px;
+  line-height: 22px;
+  width: 350px;
+  margin-left: 25px;
+}
+
+
+#imagen{
+  height: 40px;
+  background-color: #FFF;
+}
+
+#dos{
+  height: 550px;
+  background-color: #6C3;
+  background-image: url(img/img-hero-full-list.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+}
+
+#tres{
+  height: 641px;
+  background-color: #FFF;
+  background-image: url(img/allinone.jpg);
+  background-repeat: no-repeat;
+  background-position: 450px;
+}
+
+#cuatro{
+  height: 500px;
+  background-color: #333333;
+  background-image: url(img/curator-short.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+}
+
+#cinco{
+  height: 550px;
+  background-color: #EEECEE;
+  background-image: url(img/img-hero-full-list.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+}
+
+#seis{
+  height: 550px;
+  background-color: #6C3;
+  background-image: url(img/mobile-share.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+}
+
+#siete{
+  height: 643px;
+  background-color: #EEECEE;
+  background-image: url(img/anywhere.png);
+  background-repeat: no-repeat;
+  background-position: 450px;
+}
+
+#ocho{
+  height: 200px;
+  background-color: #333333;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: 475px;
+}
