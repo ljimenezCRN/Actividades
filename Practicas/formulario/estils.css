@@ -1,0 +1,29 @@
+body{
+  background-color: lightpink;
+}
+
+h1{
+  text-align: center;
+}
+
+input{
+  margin: 5px;
+}
+
+#Contenedor{
+  background-color: lightblue;
+  width: 300px;
+  margin: 10px auto;
+  padding: 10px;
+  box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.4);
+  text-align: center;
+}
+
+#submit{
+  background-color: lightyellow;
+  margin-left: 50px;
+}
+
+#nombre {
+    margin-right: 118px;
+}

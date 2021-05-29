@@ -1,0 +1,85 @@
+body{
+  background-color: pink;
+}
+
+#contenedor{
+  width: 800px;
+  height: 600px;
+  background-color: #00D3FF;
+  margin: 0 auto;
+}
+
+#nav{
+  height: 100px;
+  background-color: #00D3FF;
+}
+
+.boletes:hover{
+  opacity: 50%;
+  transform: scale(1.5);
+}
+
+.boletes{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  float: left;
+  border-radius: 50px;
+  color: white;
+  text-align: center;
+  line-height: 100px;
+}
+
+#boleta1{
+  background-color: #FC84CC;
+  margin-left: 200px;
+  font-size: 40px;
+}
+
+#boleta2{
+  background-color: #F865BD;
+  font-size: 40px;
+}
+
+#boleta3{
+  background-color: #FD30AB;
+  font-size: 40px;
+}
+
+#boleta4{
+  background-color: #FF0099;
+  font-size: 40px;
+}
+
+.caixa{
+  width: 400px;
+  height: 400px;
+  float: left;
+  font-family: sans-sans-serif;
+  color: white;
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+  line-height: 400px;
+}
+
+#caixa1{
+  background-color: #99FF00;
+}
+
+#caixa2{
+  background-color: yellow;
+}
+
+#footer{
+  background-color: #00D3FF;
+  height: 100px;
+  width: 800px;
+  clear: both;
+  float: left;
+  font-family: sans-serif;
+  color: white;
+  font-size: 40px;
+  text-align: center;
+  line-height: 100px;
+}
