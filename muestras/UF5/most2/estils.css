@@ -1,0 +1,30 @@
+body{
+  background-color: lightblue;
+}
+
+input{
+  display: block;
+  margin: 10px;
+}
+
+h1{
+  text-align: center;
+}
+#Contenedor{
+  width: 300px;
+  background-color: pink;
+  margin: 0 auto;
+}
+
+.Cajitas{
+  width: 200px;
+  height: 35px;
+  background-color: lightyellow;
+  border-radius: 15px;
+}
+
+::-webkit-input-placeholder { color: #333 }
+
+.Cajitas, p{
+  font-family: monospace;
+}
